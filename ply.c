@@ -422,6 +422,6 @@ void ply_destory(struct ply ply)
 		cvec_free(&e.properties);
 	}
 
-	cvec_free(ply.elements);
+	cvec_free(&ply.elements);
 	free(ply.data);
 }
