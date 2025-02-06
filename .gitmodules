@@ -1,0 +1,3 @@
+[submodule "thirdparty/cvector"]
+	path = thirdparty/cvector
+	url = https://github.com/J3oss/cvector
