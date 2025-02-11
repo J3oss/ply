@@ -10,7 +10,7 @@ A simple PLY (Polygon File Format) importer written in C.
 ## Installation
 ### Dependencies
 - A C compiler (GCC, Clang, or MSVC)
-- [cvector](https://github.com/J3oss/cvector)
+- [vector](https://github.com/J3oss/vector)
 
 ## Usage
 
